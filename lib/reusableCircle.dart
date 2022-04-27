@@ -8,7 +8,7 @@ class ReusableCircle extends StatelessWidget {
   Widget build(BuildContext context) {
     return CircleAvatar(
       backgroundColor: Colors.blue,
-      radius: 50,
+      radius: 30,
 
     );
   }
